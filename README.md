@@ -25,4 +25,4 @@ My personal portfolio website built to showcase my skills, experience, and proje
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ahriew-portfolio.git
+git clone https://github.com/ahriew-laotor/ahriew-portfolio.git
