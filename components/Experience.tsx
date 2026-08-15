@@ -156,7 +156,7 @@ function Experience() {
             {/* Frontend */}
             <div className="grid gap-4 py-7 sm:grid-cols-[180px_1fr]">
               <p className="text-sm font-medium text-[#64748b]">
-                13.06.26 - 16.08.26
+                13.06.26 - 15.08.26
               </p>
 
               <div>
