@@ -33,7 +33,7 @@ function Navbar() {
 
         {/* CV */}
         <a
-          href="/Ahriew-Laotor-CV.pdf"
+          href="/cv/Ahriew_Laotor_Frontend_Developer_CV.pdf"
           download
           className="inline-flex items-center gap-2 rounded-lg border border-[#334155] px-3.5 py-2 text-sm font-medium text-[#e2e8f0] transition-colors hover:border-[#64748b] hover:bg-[#111827]"
         >
