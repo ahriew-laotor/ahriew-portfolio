@@ -18,18 +18,18 @@ function About() {
 
         <div className="grid items-start gap-14 lg:grid-cols-[360px_1fr] lg:gap-20">
           {/* Image */}
-          <div>
+          <div className="flex justify-center lg:justify-start">
             <Image
               width={400}
               height={400}
               src="/images/ahriew-02.png"
               alt="Ahriew Laotor"
-              className="w-full rounded-2xl object-cover"
+              className="w-full max-w-sm rounded-2xl object-cover"
             />
           </div>
 
           {/* Content */}
-          <div className="max-w-2xl">
+          <div className="md:mx-auto max-w-2xl">
             <div className="space-y-5 text-base leading-8 text-[#94a3b8] sm:text-lg">
               <p>
                 I'm{" "}

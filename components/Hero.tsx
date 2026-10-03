@@ -15,7 +15,7 @@ function Hero() {
               Hi, I'm Ahriew.
             </h1>
 
-            <p className="mt-6 max-w-xl text-lg leading-8 text-[#94a3b8] sm:text-xl lg:mx-0">
+            <p className="mt-6 max-w-xl text-lg leading-8 text-[#94a3b8] sm:text-xl sm:mx-auto lg:mx-0 md:mx-auto">
               I build modern, responsive, and user-focused web applications with
               React, Next.js, and TypeScript.
             </p>
